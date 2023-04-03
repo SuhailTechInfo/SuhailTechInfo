@@ -1,9 +1,9 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
-## Hi, I'm Sam Pandey
+## Hi, I'm Suhail Tech
 
-[![Profile views](https://komarev.com/ghpvc/?username=sampandey&label=Profile%20views)](https://github.com/SuhailTechInfo)
+[![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
 
 - 💫 I’m currently working on [Secktor-Md](https://github.com/SuhailTechInfo/Secktor-Md)
 
