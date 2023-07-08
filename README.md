@@ -10,7 +10,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
 
-- 💫 I’m currently working on [Secktor-Md](https://github.com/SuhailTechInfo/Secktor-Md)
+- 💫 I’m currently working on [Secktor-Md](https://github.com/SuhailTechInfo/Secktor-Bot)
 
 - 📫 [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
 
