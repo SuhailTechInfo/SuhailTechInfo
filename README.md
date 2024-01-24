@@ -10,7 +10,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
 
-- 💫 I’m currently working on [Aviator-Md](https://github.com/SuhailTechInfo/Aviator-Md)
+- 💫 I’m currently working on [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
 
 - 📫 [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
 
@@ -20,7 +20,7 @@
 
 ## 📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/SuhailTechInfo?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/SuhailTechInfo/Secktor-Md)
+[![Metrics](https://metrics.lecoq.io/insights/SuhailTechInfo)](https://github.com/SuhailTechInfo/Secktor-Md)
 
 ---
 
@@ -29,6 +29,15 @@
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923184474176)
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SuhailTechInfo) <br>
+
+
+
+
+
+
+
+
+
 <!--
 **SuhailTechInfo/SuhailTechInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
