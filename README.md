@@ -23,7 +23,7 @@
 
 - 📫 [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
 
-- 📄 Know about my [experiences](https://github.com/ahsanbasharat4385?tab=repositories)
+- 📄 Know about my [experiences](https://github.com/SuhailTechInfo?tab=repositories)
 
 - 👯 I’m looking to collaborate on **JavaScript projects** 
 
